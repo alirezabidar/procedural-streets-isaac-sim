@@ -1,0 +1,5 @@
+work/
+cache/
+__pycache__/
+media/frames/
+houdini/backup/

@@ -1,0 +1,111 @@
+{
+  "passed": true,
+  "cases": [
+    {
+      "name": "default",
+      "parameters": {},
+      "points": 22864,
+      "primitives": 21072,
+      "bounds": [
+        -98.0,
+        -0.2199999988079071,
+        -95.0,
+        98.0,
+        27.625,
+        95.0
+      ],
+      "geometry_hash": "5c5c4ff97e0ff530a93147934de0d9a912bb0bd21601a6d790a5452d63263c24"
+    },
+    {
+      "name": "alternate_seed",
+      "parameters": {
+        "seed": 38
+      },
+      "points": 22464,
+      "primitives": 20772,
+      "bounds": [
+        -98.0,
+        -0.2199999988079071,
+        -95.0,
+        98.0,
+        27.625,
+        95.0
+      ],
+      "geometry_hash": "ea00cfbf798210cf718449aab37acbb9f9caad4196992ccd2df2f38be883c5ac"
+    },
+    {
+      "name": "default_repeat",
+      "parameters": {},
+      "points": 22864,
+      "primitives": 21072,
+      "bounds": [
+        -98.0,
+        -0.2199999988079071,
+        -95.0,
+        98.0,
+        27.625,
+        95.0
+      ],
+      "geometry_hash": "5c5c4ff97e0ff530a93147934de0d9a912bb0bd21601a6d790a5452d63263c24"
+    },
+    {
+      "name": "expanded",
+      "parameters": {
+        "blocks_x": 4,
+        "blocks_z": 3,
+        "seed": 38
+      },
+      "points": 29144,
+      "primitives": 27090,
+      "bounds": [
+        -126.0,
+        -0.2199999988079071,
+        -95.0,
+        126.0,
+        27.625,
+        95.0
+      ],
+      "geometry_hash": "0ad58fe7d862c6bb1e323eb8a9704b537167310717979881ba861a1c628902a0"
+    },
+    {
+      "name": "tight_blocks",
+      "parameters": {
+        "pitch_x": 36,
+        "pitch_z": 34,
+        "road_width": 14,
+        "sidewalk": 3.5,
+        "footprint": 1.05
+      },
+      "points": 22096,
+      "primitives": 20496,
+      "bounds": [
+        -68.0,
+        -0.2199999988079071,
+        -65.0,
+        68.0,
+        27.625,
+        65.0
+      ],
+      "geometry_hash": "ad26135c9dce25e69496813caaf2a56714641010cfb94f7c19a87ac47b7cedbf"
+    },
+    {
+      "name": "details_off",
+      "parameters": {
+        "trees": 0,
+        "lamps": 0,
+        "crosswalks": 0
+      },
+      "points": 12912,
+      "primitives": 9684,
+      "bounds": [
+        -98.0,
+        -0.2199999988079071,
+        -95.0,
+        98.0,
+        27.625,
+        95.0
+      ],
+      "geometry_hash": "acf893233fec95919b5ebfa7813587d1bab10b626c3f1c85dbe5353a3c9c3912"
+    }
+  ]
+}
